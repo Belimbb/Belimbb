@@ -4,10 +4,9 @@
 
 *I am a motivated Java Developer with a solid foundation in Java development, including Spring, Hibernate, and RESTful APIs*
 
-My experience in academic and personal projects has honed my technical skills and prepared me for real-world challenges. 
-I specialize in building efficient, reliable back-end solutions and excel in team settings. 
-My commitment to continuous learning and the pursuit of knowledge fuels my relentless desire to improve.
-With a good level of English, I am eager to contribute to meaningful projects and drive positive outcomes.
+Hi, I'm a java developer specializing in building efficient and reliable back-end solutions.
+I am always eager to learn and solidify something new (mine and the projects I've been involved in won't let you lie).
+With good English and communication skills, I can work in any environment and team :)
 
 <details open> 
   <summary><h2>⚡️ My Projects ⚡️</h2></summary>
