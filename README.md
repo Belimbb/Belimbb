@@ -28,7 +28,7 @@ With good English and communication skills, I can work in any environment and te
     <a href="https://github.com/AntoniiViazovskyi/Url-Shortener_V2">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AntoniiViazovskyi&repo=Url-Shortener_V2&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&hide_border=false&border_radius=10&icon_color=2f81f7&show_icons=true" alt="Url-Shortener_V2">
     </a>
-    <a href="https://github.com/Belimbb/OnlineStore/tree/dev">
+    <a href="https://github.com/Belimbb/OnlineStore">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Belimbb&repo=OnlineStore&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&hide_border=false&border_radius=10&icon_color=2f81f7&show_icons=true" alt="OnlineStore">
     </a>
   </p>
